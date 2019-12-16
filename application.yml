@@ -2,4 +2,4 @@ spring:
   application:
     name: usermgr-2
   profiles:
-    active: prod, dev
+    active: prod
